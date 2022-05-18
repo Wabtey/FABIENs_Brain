@@ -1,5 +1,6 @@
 ---
 tags: FABIEN_Game_Studio
+type: game
 ---
 
 Co-directed by Morgan VA, Nelson V, Julien N and Florian E.

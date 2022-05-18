@@ -1,5 +1,6 @@
 ---
 tags: FABIEN_Game_Studio
+type: game
 ---
 
 # Soul's Eater
@@ -13,5 +14,5 @@ tags: FABIEN_Game_Studio
   -  Spear which can fire some blood spirit
 
 Aspect of the game :
-- 2D pixelArt based
+- 2D pixelArt? based
 - Gold Project - The karma based Metroidvania influenced

@@ -1,5 +1,6 @@
 ---
 tags: Nelson, Scenario
+type: scenario
 ---
 
 # Introduction
