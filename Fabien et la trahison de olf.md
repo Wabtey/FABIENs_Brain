@@ -19,8 +19,7 @@ by Morgan, Rust
 
 - GitHub :
 
-[[fabien-et-la-trahison-de-olf/README]]
-[GitHub - Elzapat/fabien-et-la-trahison-de-olf: JEU OFFICIEL FABIEN ET LA TRAHISON DE OLF](https://github.com/Elzapat/fabien-et-la-trahison-de-olf)
+[[fabien-et-la-trahison-de-olf/README]][: JEU OFFICIEL FABIEN ET LA TRAHISON DE OLF](https://github.com/Elzapat/fabien-et-la-trahison-de-olf)
 
 ## Map
 
@@ -28,13 +27,13 @@ by Olf, PixelArt
 
 - Temple
 
-![Temple V2.3](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/221646ae-32c7-40d5-80f2-34c5c920d7e9/TempleCarrelage2.png)
+<img src="attachments%5CTemple_v2-6.png" alt="Temple V2.6" width="500"/>
 
 Temple V2.3
 
 - Corridor
 
-    ![Corridor V1. 4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d429579-934b-4e32-b632-f2797bbf8788/Selection.png)
+![Corridor V1. 4](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d429579-934b-4e32-b632-f2797bbf8788/Selection.png)
 
     Corridor V1. 4
 
