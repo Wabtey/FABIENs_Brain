@@ -23,6 +23,8 @@ by Morgan, Rust
 
 ## Map
 
+[[Map]]
+
 by Olf, PixelArt
 
 - Temple
