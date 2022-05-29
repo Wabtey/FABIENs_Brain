@@ -1,8 +1,19 @@
 ---
 title: FTO Map
-type: PixelArt
+type: pixel_art
 author: Olf
 ---
+
+## Updates
+
+### Lastest
+
+[[v3.7.0]]
+
+### Previous
+
+- [[smth_1]]
+- [[smth_2]]
 
 ## Palettes
 
@@ -15,6 +26,7 @@ Past 27-05:
 ## Credits
 
 Walls: Turnip Boy Commits Tax Evasion, made by Jennifer Kindl
+Blason Shape: Medieval Pixel Art Props, sell by BlackSpire
 
 Inspiration:
 
