@@ -100,3 +100,5 @@ by Nelson, BlocNote
     [[Introduction]]
 
     ▲ : Lien vers le scénario mise en page
+
+- On l'a retrouvé assassiné, il en est mort.

@@ -12,7 +12,7 @@ author: Olf
 
 ### Previous
 
-- [[smth_1]]
+- [[v1-0-0]]
 - [[smth_2]]
 
 ## Palettes
