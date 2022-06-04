@@ -26,6 +26,9 @@ Past 27-05:
 31-05
 ![Palette_v3-5](/FABIENs_Brain/attachments/MAP/Other/palette%20FTO%20v3-5.png "Have to work the red/brown and maybe purple")
 
+Character's palette v1.4
+![Cha_Pal_v1-4](attachments%5CMAP%5COther%5Cpalette_FTO_character_v1-4.png "more worm color to pop the character out")
+
 ## Credits
 
 Walls: Turnip Boy Commits Tax Evasion, made by Jennifer Kindl

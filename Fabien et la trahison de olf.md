@@ -48,6 +48,10 @@ Composition V1. 4
 - Musée de L'Art Naque
 
 Le peuple Naque sont considéré comme les ancestres directs des FABIEN
+
+## HUD
+
+[[HUD]]
   
 ## Character
 
@@ -90,6 +94,10 @@ Infirmier Hugo V1.3
 ![Cat V1](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91ae1060-bfdb-40b0-a751-7730ad126f07/chat_random_prototype.gif)
 
 Cat V1
+
+- Fabicurion
+    by TearsNBlood, PixelArt
+![Fabicurion V2](attachments%5CCharacters%5Cfabicurion_dans_le_style.png)
 
 ## Dialogues
 
