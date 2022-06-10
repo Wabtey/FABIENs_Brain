@@ -8,12 +8,13 @@ author: Olf
 
 ### Lastest
 
-[[v3.7.0]]
+[[v3.8.0]]
 
 ### Previous
 
 - [[v1-0-0]]
 - [[smth_2]]
+- [[v3.7.0]]
 
 ## Palettes
 
@@ -33,9 +34,9 @@ Character's palette v1.4
 
 Walls: Turnip Boy Commits Tax Evasion, made by Jennifer Kindl
 Blason Shape: Medieval Pixel Art Props, sell by BlackSpire
-Test in the demo: [‘Obi-Wan Kenobi’ as a Zelda game | Pixel Art Mockup](https://www.youtube.com/watch?v=pjXz-0l9gYc) by  Brandon James Greer
 
 Inspiration:
 
 - Parchment: Internet, various artists
 - Tinted Glass: Medieval Pixel Art Props, sell by BlackSpire
+- Test in the demo: [‘Obi-Wan Kenobi’ as a Zelda game | Pixel Art Mockup](https://www.youtube.com/watch?v=pjXz-0l9gYc) by  Brandon James Greer
