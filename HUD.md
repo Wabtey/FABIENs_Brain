@@ -23,7 +23,7 @@ author: Olf
 ## Palettes
 
 HUD Palette v1
-![Palette_v1](attachments%5CMAP%5COther%5Cpalette_FTO_character_v1-4.png "such great color")
+*insert palette*
 
 ## Credits
 
