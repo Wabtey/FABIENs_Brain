@@ -6,7 +6,7 @@ author: Olf
 
 ## Preview
 
-![Great HUD](attachments/HUD/HUDv1.0.5.gif "Fabien is always listening")
+![Great HUD](FTO/attachments/HUD/HUDv1.0.5.gif "Fabien is always listening")
 
 ## Updates
 

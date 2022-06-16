@@ -19,16 +19,13 @@ author: Olf
 ## Palettes
 
 Past 27-05:
-![Palette_Past_27-05](/FABIENs_Brain/attachments/MAP/Other/palette_FTO_past27-05.png "Too much color in it")
+![Palette_Past_27-05](/FABIENs_Brain/FTO/attachments/MAP/Other/palette_FTO_past27-05.png "Too much color in it")
 
 27-05:
-![Palette_Post_27-05](/FABIENs_Brain/attachments/MAP/Other/palette_FTO_27-05.png "HUE Shifting <3")
+![Palette_Post_27-05](/FABIENs_Brain/FTO/attachments/MAP/Other/palette_FTO_27-05.png "HUE Shifting <3")
 
 31-05
-![Palette_v3-5](/FABIENs_Brain/attachments/MAP/Other/palette%20FTO%20v3-5.png "Have to work the red/brown and maybe purple")
-
-Character's palette v1.4
-![Cha_Pal_v1-4](attachments%5CMAP%5COther%5Cpalette_FTO_character_v1-4.png "more worm color to pop the character out")
+![Palette_v3-5](/FABIENs_Brain/FTO/attachments/MAP/Other/palette%20FTO%20v3-5.png "Have to work the red/brown and maybe purple")
 
 ## Credits
 
