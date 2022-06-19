@@ -6,6 +6,10 @@ author: Olf
 
 ## Updates
 
+First landscape !
+![high on the balcony](attachments/MAP/LANDSCAPE%20Final%20Clouds.gif "some clouds hates each others")
+
+
 ### Lastest
 
 [[v3.7.2]]
