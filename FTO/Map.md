@@ -9,16 +9,16 @@ author: Olf
 First landscape !
 ![high on the balcony](attachments/MAP/LANDSCAPE%20Final%20Clouds.gif "some clouds hates each others")
 
-
 ### Lastest
 
-[[v3.7.2]]
+[[v3.7.3]]
 
 ### Previous
 
 - [[v1-0-0]]
 - [[smth_2]]
 - [[v3.7.0]]
+- [[v3.7.2]]
 
 ## Palettes
 
