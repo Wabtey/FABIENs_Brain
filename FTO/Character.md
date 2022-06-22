@@ -31,7 +31,7 @@ Fabicurion by TearsNBlood
 ![Olf le fantôme](attachments/Characters/Ghost%20Olf.gif "bou")
 Olf le fantôme by Olf (base from Julien)
 
-![General Fabicurion](attachments/Characters/General_Fabicurion_sprite_sheet.png "General Fabicurion")
+![General Fabicurion](attachments/Characters/General_Fabicurion.gif "General Fabicurion")
 General Fabicurion by Julien
 
 ### Secondary Character
