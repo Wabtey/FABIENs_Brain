@@ -3,22 +3,31 @@ title: FTO Combat
 author: Nelson, Olf
 ---
 
+## Rules
+
+Et puis nouvelles regles
+
+- la magie bypass la défence
+
 ## Stats
 
-Attaque
-Défence
-Rapidité
+Attaque: %
+Défence: same
+Rapidité: valeur (qui détermine qui joue first)
 
 ## Character
 
 **Morgan**:
-~Mage/Barde
+~Gros Cerveau
 1000hp
 400mp
 
-- Attaque: Bam 150/300dmg
-- Défence: Block 100/200dmg
-- Attaque Spé: Jargon Rouillé, 20%, 300/500dmg
+- Attaque:
+  - Bam 150/300dmg + att%
+- Défence:
+  - Block 100/200dmg
+- Attaque Spé:
+  - Jargon Rouillé, 80mp, 400/700dmg to all enemy
 
 -----------------------
 
@@ -32,18 +41,43 @@ Rapidité
 
 -----------------------
 
-Maeto:
-*Physique*
-2 Att
--1 Défence
-0 Att spé Finisher
+**Nelson**:
+~Chancelier
+800hp
+200mp
 
-- Atlétique
-  - Speed
-  - 0 Déf (teeshirt short)
-- Fabicurion
-  - 0 Speed
-  - plus Force
+- Attaque:
+  - Gifle 0dmg
+    - débuff: Honte, 25% de dmg subie en + (2tour)
+- Défence:
+  - Block 25/50dmg (c'est tres tres low)
+- Attaque Spéciale:
+  - Diffamation, 60mp, 150/300dmg to one enemy
+    - débuff: s'énerve, 25%dmg supp infligé, stuck with catégorie Attaque
+    - si Honte
+      - débuff: pleure, passe son tour
+
+-----------------------
+
+**Maeto**:
+~Général des Fabicurions
+2000hp
+200mp
+Immune to Poison
+
+- Attaque:
+  - Tarte 250/450dmg (2/combat)
+  - Jem çeu: lance son truc
+    - delay: 1 tour
+    - 300dmg to one + 150dmg to all enemy
+- Défence:
+  - Solide 100/200dmg
+- Attaque Spéciale:
+  - Didgeridoo, 200mp, muet 1tour to all enemy
+  - C'est quoi un caillou poli ?
+    - c'est un caillou
+
+-----------------------
 
 Florian:
 *Eq*
@@ -62,6 +96,7 @@ Nelson:
 - Nécromancien
   - Maladie
 - Diplomate
+- Diffamateur ou presque
 
 Hugo:
 Manque d'attaque (car trop gentil)
@@ -69,7 +104,25 @@ Manque d'attaque (car trop gentil)
 Thomas Lagoutte:
 *Viceux*, Saignement, Poison, Maladie
 
+## Item
+
+- Fourmilliere en bouteille
+  - se trouve dans les boites -> 2nd interactions
+  - Degats de poison (x3 to Olf, 0 to Maeto (boit la bouteille))
+- Basse, instrument
+  - descp: Une bonne basse
+  - 4 Attaque, 12 Attaque Spéciale
+  - Bam -> Szwing
+
+-----------------------
+
+- photo de Flo travesti
+- Charlie
+- Le Caleçon de Nelson de Morgan
+
 ## Spécialité
+
+Note: pour plus tard
 
 Morgan, 2spé a choisir
 Autre, 1 spé
@@ -83,14 +136,5 @@ Autre, 1 spé
   - Dialogue
   - Charme
   - Buff
-- 
 
-## Item
 
-- Fourmilliere en bouteille
-  - se trouve dans les boites -> 2nd interactions
-  - Degats de poison (x3 to Olf)
-- Basse, instrument
-- photo de Flo tranverstie
-- Charlie
-- Le Caleçon de Nelson de Morgan
