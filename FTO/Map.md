@@ -7,7 +7,8 @@ author: Olf
 ## Updates
 
 First landscape !
-![high on the balcony](attachments/MAP/LANDSCAPE%20Final%20Clouds.gif "some clouds hates each others")
+![high on the balcony](attachments/MAP/landscape/LANDSCAPE%20Final%20Clouds.gif "some clouds hates each others")
+![Le Manoir de La Fabinie](attachments/MAP/landscape/Screen%20Title%20Placeholder.gif "prayge your sanity...")
 
 ### Lastest
 
