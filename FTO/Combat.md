@@ -11,6 +11,8 @@ Et puis nouvelles regles
 
 ## Stats
 
+HealthPoint
+ManaPoint
 Attaque: %
 Défence: same
 Rapidité: valeur (qui détermine qui joue first)
@@ -73,7 +75,7 @@ Immune to Poison
 - Défence:
   - Solide 100/200dmg
 - Attaque Spéciale:
-  - Didgeridoo, 200mp, muet 1tour to all enemy
+  - Didgeridoo, 200mp, mute 1tour to all enemy
   - C'est quoi un caillou poli ?
     - c'est un caillou
 
