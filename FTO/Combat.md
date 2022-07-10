@@ -49,6 +49,8 @@ Rapidité: valeur (qui détermine qui joue first)
 200mp
 
 - Attaque:
+  - 
+  - lvl2 ---------------------------------------------------
   - Gifle 0dmg
     - débuff: Honte, 25% de dmg subie en + (2tour)
 - Défence:
