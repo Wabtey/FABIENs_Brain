@@ -33,6 +33,12 @@ Olf le fantôme by Olf (base from Julien)
 ![General_Fabicurion](https://user-images.githubusercontent.com/73140258/176795209-d317e121-9d3f-416b-bebd-011fe4e87eb8.gif "General Fabicurion")
 General Fabicurion by Julien
 
+![novo Morgan interrogmark](https://user-images.githubusercontent.com/73140258/178835341-cb0adb0d-448e-4de2-a7c3-8f9bf564f1c4.gif "Morgan ?")
+Morgan by Olf and Nelson help
+
+![Chancelier Amiral](https://user-images.githubusercontent.com/73140258/178835369-06819723-6443-4ad8-b413-b36fbb1a1ce8.gif "Amiral")
+Amiral by Olf and Nelson Help
+
 ### Secondary Character
 
 ![chat_random_prototype](https://user-images.githubusercontent.com/73140258/176795348-5eb8f7ed-87c4-49d2-82d4-6895bbddedf6.gif "poti Chat")
